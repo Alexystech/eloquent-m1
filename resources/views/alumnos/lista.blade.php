@@ -41,8 +41,8 @@
         <tr>
             <th>Nombre</th>
             <th>Apellidos</th>
-            <th>Direccion</th>
             <th>Edad</th>
+            <th>Direccion</th>
             <th>Acciones</th>
         </tr>
         @foreach ($alumnos as $alumno)
